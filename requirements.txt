@@ -1,0 +1,7 @@
+
+# `requirements.txt`
+
+```text
+# Hangman Game
+# Python standard library is sufficient.
+# No external packages are required.
